@@ -22,7 +22,7 @@ h1 {
   margin: 0;
   padding: 20px;
 }
-@media(orientation: portrait) {
+@media(max-width: 800px) {
   #grid {
     display: block;
   }
