@@ -22,7 +22,7 @@ h1 {
   margin: 0;
   padding: 20px;
 }
-@media(max-width: 800px) {
+@media(max-width: 500px) {
   #grid {
     display: block;
   }
